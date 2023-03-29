@@ -1,7 +1,40 @@
-<h1> ¡Hola! I am Danny Garcia your <br> Favorite Software Engineer 🧑🏽‍💻   <h1>
- 
+<h1 align="center">¡Hola! soy Danny Garcia</h1>
+<h3 align="center">I Am Your Favorite Software Engineer 🧑🏽‍💻🇲🇽</h3>
 
-<h2> Skills: </h2>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a9c6ef21af0bbe2d7ee65e21f65e86f93f0ae4b4304230e5ec919c4f344c519/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d253743266d6573736167653d48544d4c3526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d68746d6c35"><img src="https://camo.githubusercontent.com/5a9c6ef21af0bbe2d7ee65e21f65e86f93f0ae4b4304230e5ec919c4f344c519/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d253743266d6573736167653d48544d4c3526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d68746d6c35" alt="HTML5 BADGE" data-canonical-src="https://img.shields.io/static/v1?label=%7C&amp;message=HTML5&amp;color=23555f&amp;style=plastic&amp;logo=html5" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a69e87a7c7c0438ee252aa9d83fb6fecedfa5b64f48e7cde9b7fea88d1afdb08/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d253743266d6573736167653d4353533326636f6c6f723d323835663635267374796c653d706c6173746963266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/a69e87a7c7c0438ee252aa9d83fb6fecedfa5b64f48e7cde9b7fea88d1afdb08/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d253743266d6573736167653d4353533326636f6c6f723d323835663635267374796c653d706c6173746963266c6f676f3d63737333" alt="CSS BADGE" data-canonical-src="https://img.shields.io/static/v1?label=%7C&amp;message=CSS3&amp;color=285f65&amp;style=plastic&amp;logo=css3" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/64460348d01584c82adeff4404a896536d8cef9ab0c746a762f3bc7b53bcb2b6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d253743266d6573736167653d4a41564153435249505426636f6c6f723d336337663564267374796c653d706c6173746963266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/64460348d01584c82adeff4404a896536d8cef9ab0c746a762f3bc7b53bcb2b6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d253743266d6573736167653d4a41564153435249505426636f6c6f723d336337663564267374796c653d706c6173746963266c6f676f3d6a617661736372697074" alt="JAVASCRIPT BADGE" data-canonical-src="https://img.shields.io/static/v1?label=%7C&amp;message=JAVASCRIPT&amp;color=3c7f5d&amp;style=plastic&amp;logo=javascript" style="max-width: 100%;"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannygarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="dannygarciadev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannygarciadev" alt="dannygarciadev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/dannygarciadev" target="blank"><img src="https://img.shields.io/twitter/follow/dannygarciadev?logo=twitter&style=for-the-badge" alt="dannygarciadev" /></a> </p>
+
+- 🔭 I’m currently working on **making Websites**
+
+- 🌱 I’m currently learning **JavaScript**
+
+- 🤝 I’m looking for help with **how can i get better at coding**
+
+- 🧑🏽‍💻 All of my projects are available at [https://dannygarciadev.netlify.app/](https://dannygarciadev.netlify.app/)
+
+- 📲 Favorite social Media [https://www.instagram.com/drixn.n/](https://www.instagram.com/drixn.n/)
+
+- 💬 Ask me about **HTML, CSS love flex <3**
+
+- 📫 How to reach me **dannygarciadev@gmail.com**
+
+- 📄 Know about my experiences [Coming Soon](Coming Soon)
+
+- ⚡ Fun fact **i was learning TypeScript instead of Javascript until half of the course i realized**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dannygarciadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dannygarciadev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dannygarciadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dannygarciadev/" height="30" width="40" /></a>
+<a href="https://instagram.com/@drixn.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@drixn.n" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannygarciadev&show_icons=true&locale=en&layout=compact" alt="dannygarciadev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannygarciadev&show_icons=true&locale=en" alt="dannygarciadev" /></p>
