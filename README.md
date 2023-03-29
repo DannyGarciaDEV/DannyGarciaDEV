@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/dannygarciadev" target="blank"><img src="https://img.shields.io/twitter/follow/dannygarciadev?logo=twitter&style=for-the-badge" alt="dannygarciadev" /></a> </p>
 
-- 🔭 I’m currently working on **making Websites**
+- 🔭 I’m currently working on **Making Websites**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **how can i get better at coding**
+- 👯 I’m looking to collaborate on **Any projects**
+
+- 🤝 I’m looking for help with **How can i get better at coding**
 
 - 🧑🏽‍💻 All of my projects are available at [https://dannygarciadev.netlify.app/](https://dannygarciadev.netlify.app/)
 
@@ -21,15 +23,13 @@
 
 - 📫 How to reach me **dannygarciadev@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
-
-- ⚡ Fun fact **i was learning TypeScript instead of Javascript until half of the course i realized**
+- Fun Fact **i was learning TypeScript instead of Javascript until half of the course i realized**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dannygarciadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dannygarciadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dannygarciadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dannygarciadev/" height="30" width="40" /></a>
-<a href="https://instagram.com/@drixn.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@drixn.n" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/drixn.n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/drixn.n/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
