@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! soy Danny Garcia</h1>
-<h3 align="center">I Am Your Favorite Software Engineer 🧑🏽‍💻🇲🇽</h3>
+<h3 align="center">Your Favorite Software Engineer 🧑🏽‍💻🇲🇽</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannygarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="dannygarciadev" /> </p>
 
