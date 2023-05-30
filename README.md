@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **Making Websites**
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 👯 I’m looking to collaborate on **Any projects**
 
 - 🤝 I’m looking for help with **How can i get better at coding**
@@ -21,7 +19,7 @@
 
 - 📲 Favorite social Media [https://www.instagram.com/drixn.n/](https://www.instagram.com/drixn.n/)
 
-- 💬 Ask me about **HTML, CSS love flex <3**
+- 💬 Ask me about **Frontend i love frontend**
 
 - 📫 How to reach me **dannygarciadev@gmail.com**
 
