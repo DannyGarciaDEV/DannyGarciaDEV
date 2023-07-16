@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! soy Danny Garcia</h1>
 <h2 align="center">Your Favorite Software Engineer 🧑🏽‍💻🇲🇽</h2>
-<p> :) <\p>
+<p> :) !<\p>
 <p>My fascination with technology grew during my adolescence. I was curious about how things worked and how they were built. I spent a lot of my time playing with Lego mind storms, a type of Lego with a hardware and software structure that develops programmable robots. During my high school years, I gained knowledge and skills in technology information. I learned to explore various concepts using computer software and other advanced technologies. Now as a software engineer, I love creating projects that enhance the user experience. If you are looking for someone who is good at finding solutions, welcomes challenges, and finds joy working within a team setting, I’m eager to meet you.
  </p>
 
