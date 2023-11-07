@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannygarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="dannygarciadev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannygarciadev" alt="dannygarciadev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dannygarciadev" target="blank"><img src="https://img.shields.io/twitter/follow/dannygarciadev?logo=twitter&style=for-the-badge" alt="dannygarciadev" /></a> </p>
 
 - 🔭 I’m currently working on **Making Websites**
 
@@ -18,7 +15,7 @@
 
 - 🧑🏽‍💻 All of my projects are available at [https://dannygarciadev.netlify.app/](https://dannygarciadev.netlify.app/)
 
-- 📲 Favorite social Media [https://www.instagram.com/drixn.n/](https://www.instagram.com/drixn.n/)
+- 📲 Favorite social Media [https://www.instagram.com/drixo.o/](https://www.instagram.com/drixo.o/)
 
 - 💬 Ask me about **Frontend i love frontend**
 
