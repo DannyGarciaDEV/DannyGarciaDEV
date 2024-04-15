@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/dannygarciadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dannygarciadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dannygarciadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dannygarciadev" height="30" width="40" /></a>
-<a href="https://instagram.com/drixn.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drixn.n" height="30" width="40" /></a>
+<a href="https://instagram.com/drixo.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drixo.o" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,4 +50,5 @@
   <a href="<VisualStudio_URL>" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   </a></p>
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/68f33c59-0081-49a2-899b-f35e8a9fae74/deploy-status)](https://app.netlify.com/sites/amazing-medovik-d098d8/deploys)
 
