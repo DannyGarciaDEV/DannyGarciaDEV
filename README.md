@@ -1,7 +1,11 @@
 <h1 align="center">¡Hola! soy Danny Garcia</h1>
 <h2 align="center">Your Favorite Software Engineer 🇲🇽</h2>
 
-<p>My fascination with technology grew during my adolescence. I was curious about how things worked and how they were built. I spent a lot of my time playing with Lego mind storms, a type of Lego with a hardware and software structure that develops programmable robots. During my high school years, I gained knowledge and skills in technology information. I learned to explore various concepts using computer software and other advanced technologies. Now as a software engineer, I love creating projects that enhance the user experience. If you are looking for someone who is good at finding solutions, welcomes challenges, and finds joy working within a team setting, I’m eager to meet you.
+<p>As a software engineer, I love working on projects and initiatives that help my community. One project is Citizenship Readiness, a full-stack app that helps people prepare for the civics test in English and Spanish, aiding those who don’t speak the language.
+Over the past year, I focused on earning my certification in Fundamentals of Open Source IT and Cloud Computing from The Linux Foundation. I also completed LinkedIn’s certifications in Cybersecurity Foundations, Javascript, IT Security. Since then, I have continued to strengthen my skill set by completing the University of Helsinki Full-Stack open curriculum. </p>
+
+<p>Most recently, I joined the Out in Tech Boston chapter, where I have hosted events such as AI Integrity: Bias, Ethics, and Social Impact with multiple panel speakers; Helping Trans Folks with Name Changing in partnership with Fenway Health; and Exploring LGBTQ+ Rights: Past, Present, and Community Support. If you want to hire someone who is excited about solving problems with code, welcomes challenges, and finds joy in working within a team setting, I’m eager to meet you.
+
  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannygarciadev&label=Profile%20views&color=0e75b6&style=flat" alt="dannygarciadev" /> </p>
