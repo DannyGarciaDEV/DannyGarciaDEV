@@ -56,3 +56,5 @@ Over the past year, I focused on earning my certification in Fundamentals of Ope
   </a></p>
   [![Netlify Status](https://api.netlify.com/api/v1/badges/68f33c59-0081-49a2-899b-f35e8a9fae74/deploy-status)](https://app.netlify.com/sites/amazing-medovik-d098d8/deploys)
 
+  <script src="https://tryhackme.com/badge/3233678"></script>
+
